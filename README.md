@@ -1,6 +1,6 @@
 # Principles of Biostatistics, 3rd Edition
 
-Welcome to the Principles of Biostatistics 3rd edition companion repository!
+### Welcome to the Principles of Biostatistics 3rd edition companion repository!
 
 This repository contains the datasets and Stata and R code used for the further applications examples for each chapter, as well as the datasets used in the Review Exercises.
 
