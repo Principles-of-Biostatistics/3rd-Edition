@@ -6,7 +6,8 @@ This repository contains the datasets and Stata and R code used for the Further 
 
 Folder details:
 
-* __Files for Further Applications__: contains all data files (`.dta` files) and code needed for the Further Applications sections throughout the book. Data files are available in the `Data` folder, R code is available in the `R Code` folder, and Stata code is available in the `Stata Code` folder. 
+* __Files for Further Applications__: contains all data files (`.dta` files) and code needed for the Further Applications sections throughout the book. Data files are available in the `Data for Further Applications` folder, R code is available in the `R Code` folder, and Stata code is available in the `Stata Code` folder. 
+
 * __Data for Review Exercises__: contains all data files needed for the Review Exercises throughout the book. Each data file is a Stata data file (`.dta`). There is also a spreadsheet with details about each data file, and which chapter(s) use the dataset. 
 
 
