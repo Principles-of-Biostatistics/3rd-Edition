@@ -11,7 +11,7 @@ Folder details:
 
 * __Files for Further Applications__: contains all data files (`.dta` files) and code needed for the Further Applications sections throughout the book. Data files are available in the `Data for Further Applications` folder, R code is available in the `R Code` folder, and Stata code is available in the `Stata Code` folder. Note that data files were created using Stata version 16 and may not open for older versions of Stata.
 
-* __Solutions Manual__: We are working on a solutions manual for this edition but don't expect it to be available until sometime next year. The solutions manual for the 2nd edition can be used for exercises in the 3rd edition that have not changed from the previous edition. We will update this cite when the solutions manual is made available. 
+* __Solutions Manual__: We are working on a solutions manual for this edition but don't expect it to be available until sometime next year. The solutions manual for the 2nd edition can be used for exercises in the 3rd edition that have not changed from the previous edition. We will update this site when the solutions manual is made available. 
 
 
 Please cite: Pagano, M., Gauvreau, K., & Mattie, H. (2022). Principles of Biostatistics (3rd ed.). Chapman and Hall/CRC. https://doi.org/10.1201/9780429340512
