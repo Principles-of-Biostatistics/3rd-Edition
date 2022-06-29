@@ -14,6 +14,6 @@ Folder details:
 * __Solutions Manual__: We are working on a solutions manual for this edition but don't expect it to be available until sometime next year. The solutions manual for the 2nd edition can be used for exercises in the 3rd edition that have not changed from the previous edition. We will update this cite when the solutions manual is made available. 
 
 
-Please cite: Pagano, M., Gauvreau, K., & Mattie, H. (2022). Principles of Biostatistics (3rd ed.). Chapman and Hall/CRC. https://doi-org.ezp-prod1.hul.harvard.edu/10.1201/9780429340512
+Please cite: Pagano, M., Gauvreau, K., & Mattie, H. (2022). Principles of Biostatistics (3rd ed.). Chapman and Hall/CRC. https://doi.org/10.1201/9780429340512
 
 If you have any questions or find any errors, please reach out to Dr. Heather Mattie at hemattie@hsph.harvard.edu
