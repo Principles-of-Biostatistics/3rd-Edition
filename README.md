@@ -14,6 +14,7 @@ This repository contains the datasets and Stata and R code used for the Further 
 * __Solutions Manual__: The solutions to exercises from chapters 1-10 and 12 have been posted. We are continuously working on the solutions manual and will update the solutions pdf file as we complete the exercises for each chapter. The solutions manual for the 2nd edition can be used for exercises in the 3rd edition that have not changed from the previous edition.
 
 **Errata:**
+* Table 2.7, chapter 2: The row of values for the 240-279 mg/100 ml serum cholesterol level category is missing. The values going across the row should be: 240-279     115   10.8  281   22.9.
 * Review Exercises, chapter 6, exercise 5c: this question references Figure 6.3 in the main text, but Figure 6.2 should be referenced instead.
 * Review Exercises, chapter 9, exercise 11: the table is missing a row. The value 2.37 should be added to the Calcium column and a corresponding value of 42 to the Albumin column.
 
